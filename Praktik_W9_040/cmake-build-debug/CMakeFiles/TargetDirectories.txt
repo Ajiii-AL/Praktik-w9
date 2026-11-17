@@ -1,0 +1,4 @@
+D:/VSCODE/Praktik_W9_040/cmake-build-debug/CMakeFiles/tugasAlpro.dir
+D:/VSCODE/Praktik_W9_040/cmake-build-debug/CMakeFiles/ArsipDataKendaraan_040.c.dir
+D:/VSCODE/Praktik_W9_040/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/VSCODE/Praktik_W9_040/cmake-build-debug/CMakeFiles/rebuild_cache.dir

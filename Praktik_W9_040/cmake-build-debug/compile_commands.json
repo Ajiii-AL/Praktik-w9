@@ -1,0 +1,14 @@
+[
+{
+  "directory": "D:/VSCODE/Praktik_W9_040/cmake-build-debug",
+  "command": "\"D:\\Clion\\CLion 2026.2.2\\bin\\mingw\\bin\\gcc.exe\" -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\tugasAlpro.dir\\CreateArchiveMahasiswa.c.obj -c D:\\VSCODE\\Praktik_W9_040\\CreateArchiveMahasiswa.c",
+  "file": "D:/VSCODE/Praktik_W9_040/CreateArchiveMahasiswa.c",
+  "output": "D:/VSCODE/Praktik_W9_040/cmake-build-debug/CMakeFiles/tugasAlpro.dir/CreateArchiveMahasiswa.c.obj"
+},
+{
+  "directory": "D:/VSCODE/Praktik_W9_040/cmake-build-debug",
+  "command": "\"D:\\Clion\\CLion 2026.2.2\\bin\\mingw\\bin\\gcc.exe\" -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\ArsipDataKendaraan_040.c.dir\\ArsipDataKendaraan_040.c.obj -c D:\\VSCODE\\Praktik_W9_040\\ArsipDataKendaraan_040.c",
+  "file": "D:/VSCODE/Praktik_W9_040/ArsipDataKendaraan_040.c",
+  "output": "D:/VSCODE/Praktik_W9_040/cmake-build-debug/CMakeFiles/ArsipDataKendaraan_040.c.dir/ArsipDataKendaraan_040.c.obj"
+}
+]
